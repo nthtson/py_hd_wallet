@@ -29,7 +29,7 @@ Install via PiP:
 
 .. code:: bash
 
-   $ sudo pip install py_hdwallet
+   $ sudo pip install py_hd_wallet
 
 
 Example code:
@@ -44,7 +44,7 @@ The following code creates a new Bitcoin HD wallet:
 
     # create_btc_wallet.py
 
-    from py_hdwallet import wallet
+    from py_hd_wallet import wallet
 
     # generate 12 word mnemonic seed
     seed = wallet.generate_mnemonic()

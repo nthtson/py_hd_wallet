@@ -1,7 +1,7 @@
 import os, sys
 from os.path import dirname, join, abspath
 sys.path.insert(0, abspath(join(dirname(__file__), '..')))
-from py_hdwallet import wallet
+from py_hd_wallet import wallet
 
 # generate 12 word mnemonic seed
 # seed = wallet.generate_mnemonic()

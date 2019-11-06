@@ -5,11 +5,11 @@ with open("README.rst", "r") as fh:
 
 setuptools.setup(
 
-    name='py_hdwallet',
+    name='py_hd_wallet',
 
     version='0.1',
 
-    packages=['py_hdwallet'],
+    packages=['py_hd_wallet'],
 
     license='LICENSE.txt',
 
@@ -22,7 +22,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/x-rst',
 
-    url="https://github.com/nthtson/py_hdwallet",
+    url="https://github.com/nthtson/py_hd_wallet",
 
     install_requires=[
         'pywallet==0.1.0',
