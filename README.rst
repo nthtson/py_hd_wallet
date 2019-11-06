@@ -1,4 +1,4 @@
-py_hdwallet
+py_hd_wallet
 ===========
 
 ** A multi crypto-currencies HD wallet implemented by Python. **
