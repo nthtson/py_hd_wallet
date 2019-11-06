@@ -20,6 +20,7 @@ setuptools.setup(
     description="A multi-cryptocurrency HD wallet implemented by Python",
 
     long_description=long_description,
+    long_description_content_type='text/x-rst',
 
     url="https://github.com/nthtson/py_hdwallet",
 

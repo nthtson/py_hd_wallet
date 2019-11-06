@@ -1,7 +1,7 @@
 py_hdwallet
 ===========
 
-**A multi crypto-currencies HD wallet implemented by Python. **
+** A multi crypto-currencies HD wallet implemented by Python. **
 
 BIP32 (or HD for "hierarchical deterministic") wallets allow you to create
 child wallets which can only generate public keys and don't expose a
