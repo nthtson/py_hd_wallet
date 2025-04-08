@@ -29,7 +29,7 @@ setuptools.setup(
         'pycoin==0.80',
         'mnemonic==0.18',
         'pysha3==1.0.2',
-        'pycryptodome==3.8.2',
+        'pycryptodome==3.19.1',
         'hashprint==1.0.1',
         'pysha3==1.0.2',
         'pycoin==0.80',
